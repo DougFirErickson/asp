@@ -19,5 +19,5 @@ Software versions installed
 * PROJ 4.8.0  
 * CMake 2.8.12.2
 * OpenJPEG 2.0.0  
-* GDALl 1.10.0  
-* StereoPipeline-2.4.2-2014-10-06-x86_64-Linux-GLIBC-2.5
+* GDAL 1.10.0  
+* StereoPipeline-2.5.1-2015-11-13-x86_64
